@@ -35,8 +35,6 @@
 可视化工具是<a href="https://github.com/wnmp/wnmp/blob/master/LICENSE">GPL-3.0</a> 下的  <a href="https://github.com/wnmp/wnmp">wnmp/wnmp</a> 的一部分
 
 本项目是基于<a href="https://github.com/mashirozx/Pixiv-Nginx" target="_blank" rel="noopener">Pixiv-Nginx</a>的二次修改的版本，你也需要遵循<a href="https://github.com/mashirozx/Pixiv-Nginx/blob/main/LICENSE" target="_blank" rel="noopener">MIT LICENSE</a></li>
- 	<li>&nbsp;</li>
-</ul>
 &nbsp;
 
 &nbsp;

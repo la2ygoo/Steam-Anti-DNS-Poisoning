@@ -40,7 +40,7 @@
 
 &nbsp;
 <ul>
- 	<li>英文：</li>
+ 	<li>English：</li>
  	<li>
 <p dir="auto">This is a fork of <a href="https://github.com/nginx/nginx">nginx/nginx</a>, so you should always follow its <a href="http://nginx.org/LICENSE" rel="nofollow">2-clause BSD-like licens</a>  .</p>
 <p dir="auto">The visualized management tool is part of <a href="https://github.com/wnmp/wnmp">wnmp/wnmp</a>, which is under <a href="https://github.com/wnmp/wnmp/blob/master/LICENSE">GPL-3.0</a>. .</p>

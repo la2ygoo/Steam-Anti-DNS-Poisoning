@@ -30,13 +30,24 @@
  	<li>LICENSE</li>
  	<li>
 <p dir="auto">中文:</p>
-这是 <a href="https://github.com/nginx/nginx">nginx/nginx</a>的一个分支，所以你应该始终遵循<a href="http://nginx.org/LICENSE" rel="nofollow">2-clause BSD-like license</a>
+这是 <a href="https://github.com/nginx/nginx">nginx/nginx</a>的一个分支，所以你应该始终遵循<a href="http://nginx.org/LICENSE" rel="nofollow">2-clause BSD-like licens</a>
 
-可视化工具是<a href="https://github.com/wnmp/wnmp/blob/master/LICENSE">GPL-3.0</a> 下的 <a href="https://github.com/wnmp/wnmp">wnmp/wnmp</a> 的一部分</li>
+可视化工具是<a href="https://github.com/wnmp/wnmp/blob/master/LICENSE">GPL-3.0</a> 下的  <a href="https://github.com/wnmp/wnmp">wnmp/wnmp</a> 的一部分
+
+本项目是基于<a href="https://github.com/mashirozx/Pixiv-Nginx" target="_blank" rel="noopener">Pixiv-Nginx</a>的二次修改的版本，你也需要遵循<a href="https://github.com/mashirozx/Pixiv-Nginx/blob/main/LICENSE" target="_blank" rel="noopener">MIT LICENSE</a></li>
+ 	<li>&nbsp;</li>
+</ul>
+&nbsp;
+
+&nbsp;
+<ul>
  	<li>英文：</li>
  	<li>
-<p dir="auto">This is a fork of <a href="https://github.com/nginx/nginx">nginx/nginx</a>, so you should always follow its <a href="http://nginx.org/LICENSE" rel="nofollow">2-clause BSD-like license</a>.</p>
-<p dir="auto">The visualized management tool is part of <a href="https://github.com/wnmp/wnmp">wnmp/wnmp</a>, which is under <a href="https://github.com/wnmp/wnmp/blob/master/LICENSE">GPL-3.0</a>.</p>
+<p dir="auto">This is a fork of <a href="https://github.com/nginx/nginx">nginx/nginx</a>, so you should always follow its <a href="http://nginx.org/LICENSE" rel="nofollow">2-clause BSD-like licens</a>  .</p>
+<p dir="auto">The visualized management tool is part of <a href="https://github.com/wnmp/wnmp">wnmp/wnmp</a>, which is under <a href="https://github.com/wnmp/wnmp/blob/master/LICENSE">GPL-3.0</a>. .</p>
+</li>
+ 	<li>
+<p dir="auto">This project is a modified version of <a href="https://github.com/mashirozx/Pixiv-Nginx" target="_blank" rel="noopener">Pixiv-Nginx</a>, and you also need to follow the <a href="https://github.com/mashirozx/Pixiv-Nginx/blob/main/LICENSE" target="_blank" rel="noopener">MIT LICENSE</a></p>
 </li>
 </ul>
 &nbsp;

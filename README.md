@@ -1,10 +1,14 @@
 <ul>
- 	<li>介绍：</li>
+ 	<li>
+<h2>介绍：</h2>
+</li>
  	<li>这是基于NGINX的加速器（注：不是翻墙工具！不是翻墙工具！不是翻墙工具！），里面会加速包括Steam，GitHub等被DNS污染的网站</li>
 </ul>
 &nbsp;
 <ul>
- 	<li>上法律：</li>
+ 	<li>
+<h2>上法律：</h2>
+</li>
  	<li>
 <pre class="hl"><code class="">《国际联网暂行规定》第六条规定：“计算机信息网络直接进行国际联网，必须使用邮电部国家公用电信网提供的国际出入口信道。任何单位和个人不得自行建立或者使用其他信道进行国际联网。</code></pre>
 </li>
@@ -13,7 +17,9 @@
 </ul>
 &nbsp;
 <ul>
- 	<li>如何使用？</li>
+ 	<li>
+<h2>如何使用？</h2>
+</li>
  	<li>本软件只需要几步即可使用（不要放在中文目录下），首先，你要先安装证书，点击rootCA，之后点击安装证书，下一页，将证书存储到“<span style="color: #ff6600;">受信任的根证书颁发机构</span>”</li>
 </ul>
 &nbsp;
@@ -24,6 +30,32 @@
 <ul>
  	<li><a href="http://download.haoming.gq/steam-anti-dns-poisoning.7z">下载链接</a></li>
  	<li><a href="https://github.com/hhm1/steam-anti-dns-poisoning">GitHub源码</a></li>
+ 	<li><a href="https://haoming.gq/2023/01/22/steam-anti-dns-poisoning-for-linux-ubuntu-document" target="_blank" rel="noopener">Linux-Ubuntu使用文档</a></li>
+ 	<li><a href="https://github.com/hhm1/Steam-Anti-Dns-Poisoning-For-Linux" target="_blank" rel="noopener">GitHub源码-Linux</a></li>
+</ul>
+&nbsp;
+<ul>
+ 	<li>
+<h2>想要加菜（网站）怎么办？</h2>
+</li>
+ 	<li>如果你想加网站的话，可以在本文章评论区评论，或者在GayHub（bishi）发个Issues，我会积极回应的，正所谓无私贡献精神（doge）</li>
+</ul>
+&nbsp;
+<ul>
+ 	<li>
+<h2>等等o_o ....，你还想在<del>Linux，（教程已出）</del>Mac，安卓，IOS上用？</h2>
+</li>
+ 	<li><del>Linux，</del>安卓：这<del>两</del>个平台还在研究中。之后会单独出文章</li>
+ 	<li>Mac：等我搞到黑苹果系统可以测试之后再说吧</li>
+ 	<li>IOS：想都不用想，苹果商店你懂的</li>
+</ul>
+&nbsp;
+<ul>
+ 	<li>
+<h2>怎么还要我等啊QAQ，为什么不反向代理谷歌，WikiPedia呢</h2>
+</li>
+ 	<li>WikiPedia：污染技术似乎更牛x了，我在测试的时候直接超时</li>
+ 	<li>谷歌？<span style="color: #ff9900;">先看介绍<span style="color: #000000;">，就算我冒着被制裁的风险给你们做也做不出来，因为GFW这家伙直接封IP</span></span></li>
 </ul>
 &nbsp;
 <ul>
@@ -36,6 +68,10 @@
 
 本项目是基于<a href="https://github.com/mashirozx/Pixiv-Nginx" target="_blank" rel="noopener">Pixiv-Nginx</a>的二次修改的版本，你也需要遵循<a href="https://github.com/mashirozx/Pixiv-Nginx/blob/main/LICENSE" target="_blank" rel="noopener">MIT LICENSE</a></li>
 </ul>
+&nbsp;
+
+&nbsp;
+
 &nbsp;
 
 &nbsp;

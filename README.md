@@ -30,8 +30,9 @@
 <ul>
  	<li><a href="http://download.haoming.gq/steam-anti-dns-poisoning.7z">下载链接</a></li>
  	<li><a href="https://github.com/hhm1/steam-anti-dns-poisoning">GitHub源码</a></li>
- 	<li><a href="https://haoming.gq/2023/01/22/steam-anti-dns-poisoning-for-linux-ubuntu-document" target="_blank" rel="noopener">Linux-Ubuntu使用文档</a></li>
+ 	<li><a href="https://haoming.gq/2023/01/22/steam-anti-dns-poisoning-for-linux-ubuntu-document" target="_blank" rel="noopener">Linux使用文档</a></li>
  	<li><a href="https://github.com/hhm1/Steam-Anti-Dns-Poisoning-For-Linux" target="_blank" rel="noopener">GitHub源码-Linux</a></li>
+ 	<li><a href="https://haoming.gq/?p=141">Mac使用文档</a></li>
 </ul>
 &nbsp;
 <ul>
@@ -43,9 +44,9 @@
 &nbsp;
 <ul>
  	<li>
-<h2>等等o_o ....，你还想在<del>Linux，（教程已出）</del>Mac，安卓，IOS上用？</h2>
+<h2>等等o_o ....，你还想在<del>Linux，</del>（教程已出）Mac，<del>安卓，</del>IOS上用？</h2>
 </li>
- 	<li><del>Linux，</del>安卓：这<del>两</del>个平台还在研究中。之后会单独出文章</li>
+ 	<li><del>Linux（教程已出），安卓</del>（搞了大半天才想起安卓7.0以上不信任用户证书，这个放弃开发。谷歌，我劝你善良！）：这<del>两</del>个平台还在研究中。之后会单独出文章</li>
  	<li>Mac：等我搞到黑苹果系统可以测试之后再说吧</li>
  	<li>IOS：想都不用想，苹果商店你懂的</li>
 </ul>

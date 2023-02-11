@@ -1,0 +1,5 @@
+
+#DuckDuckGo Start
+127.0.0.1 duckduckgo.com
+127.0.0.1 external-content.duckduckgo.com
+#DuckDuckGo End

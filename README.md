@@ -3,7 +3,7 @@
 <h2>介绍：</h2>
 </li>
  	<li>这是基于NGINX的加速器（注：不是翻墙工具！不是翻墙工具！不是翻墙工具！），里面会加速包括Steam，GitHub等被DNS污染的网站</li>
-  <li>This is an NGINX-based accelerator (note: not a circumvention tool!. Not a circumvention tool! Not a circumvention tool! ), which will speed up websites contaminated with DNS, including Steam, GitHub, etc<li>
+ 	<li>This is an NGINX-based accelerator (note: not a circumvention tool!. Not a circumvention tool! Not a circumvention tool! ), which will speed up websites contaminated with DNS, including Steam, GitHub, etc</li>
 </ul>
 &nbsp;
 <ul>
@@ -25,8 +25,8 @@
 </ul>
 &nbsp;
 <ul>
- 	<li>安装完证书之后打开可视化工具，找到nginx，然后点start，看到勾就证明打开了，如果不想用了就点stop关闭</li>
- 	<li><img class="alignnone size-full wp-image-415" src="https://haoming.gq/wp-content/uploads/2023/02/屏幕截图-2023-01-21-152344.png" alt="" width="659" height="370" /></li>
+ 	<li>安装完证书之后打开"Bocchidesu.exe"，先选择要加速的网站，之后点击开关，不想用了可以关闭</li>
+ 	<li><img class="alignnone size-full wp-image-482" src="https://haoming.gq/wp-content/uploads/2023/01/屏幕截图-2023-02-11-092035.png" alt="" width="288" height="382" /></li>
 </ul>
 &nbsp;
 <ul>
@@ -35,6 +35,7 @@
  	<li><a href="https://haoming.gq/2023/01/22/steam-anti-dns-poisoning-for-linux-ubuntu-document" target="_blank" rel="noopener">Linux使用文档</a></li>
  	<li><a href="https://github.com/hhm1/Steam-Anti-Dns-Poisoning-For-Linux" target="_blank" rel="noopener">GitHub源码-Linux</a></li>
  	<li><a href="https://haoming.gq/?p=141">Mac使用文档</a></li>
+ 	<li><a href="https://github.com/hhm1/Bocchidesu">“Bocchidesu.exe”源代码</a></li>
 </ul>
 &nbsp;
 <ul>
@@ -88,4 +89,6 @@
 <p dir="auto">This project is a modified version of <a href="https://github.com/mashirozx/Pixiv-Nginx" target="_blank" rel="noopener">Pixiv-Nginx</a>, and you also need to follow the <a href="https://github.com/mashirozx/Pixiv-Nginx/blob/main/LICENSE" target="_blank" rel="noopener">MIT LICENSE</a></p>
 </li>
 </ul>
-<ul>
+&nbsp;
+
+&nbsp;

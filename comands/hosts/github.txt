@@ -1,6 +1,0 @@
-
-#Github Start
-127.0.0.1 github.com
-185.199.108.154 github.githubassets.com
-103.224.182.253 avatars.githubsercontent.com
-#Github End

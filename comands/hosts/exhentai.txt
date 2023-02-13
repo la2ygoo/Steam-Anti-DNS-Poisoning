@@ -1,6 +1,0 @@
-
-# Exhentai Start
-127.0.0.1 exhentai.org
-127.0.0.1 e-hentai.org
-127.0.0.1 forums.e-hentai.org
-# Exhentai end

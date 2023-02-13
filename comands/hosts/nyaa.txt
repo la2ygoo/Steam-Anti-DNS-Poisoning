@@ -1,6 +1,0 @@
-
-# Nyaa Start
-127.0.0.1	nyaa.si
-127.0.0.1	www.nyaa.si
-127.0.0.1	sukebei.nyaa.si
-# Nyaae End

@@ -1,0 +1,4 @@
+127.0.0.1 store.steampowered.com # Steam
+127.0.0.1 steampowered.com # Steam
+127.0.0.1 steamcommunity.com # Steam
+127.0.0.1 img.youtube.com # Steam

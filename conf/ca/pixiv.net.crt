@@ -1,0 +1,100 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CN, O=Mashiro Internet Fake Authority CA, CN=Pixiv.net
+        Validity
+            Not Before: Feb 12 13:30:42 2023 GMT
+            Not After : Feb 12 13:30:42 2024 GMT
+        Subject: C=CN, O=Mashiro Internet Fake Authority CA, CN=Pixiv.net
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b1:a9:4a:98:c9:d5:b6:60:af:d7:10:15:e0:54:
+                    74:e2:91:5a:ad:9e:e5:6b:1e:b1:40:45:f0:a7:9e:
+                    ed:de:7a:a6:cf:84:5d:12:5f:f7:ab:46:ad:d3:83:
+                    5b:02:2e:37:33:91:48:b8:4c:b6:2a:50:63:f2:03:
+                    10:0c:db:1a:2d:34:04:44:a2:b6:a2:b1:de:89:fc:
+                    44:ca:b6:98:0f:d0:17:63:19:60:ab:e2:7e:d9:3a:
+                    df:23:15:d0:0e:76:27:bc:d4:0d:1a:74:b2:f0:72:
+                    b1:14:8e:57:2f:1e:6b:5e:2e:19:64:46:ea:6b:a4:
+                    13:33:e2:96:a6:0e:71:bd:ae:14:7c:1f:6a:57:86:
+                    09:83:64:47:fb:b2:75:1b:03:13:46:6c:d9:db:c4:
+                    34:c1:98:38:1e:c3:22:3e:ae:31:68:79:c3:87:75:
+                    0c:ec:32:fa:86:e1:5e:b2:d9:0d:73:b5:a3:57:0d:
+                    69:90:6b:f7:92:11:4b:7c:55:19:fe:4c:ab:9e:c3:
+                    e1:a1:f5:0a:9c:1d:6a:5a:fa:f2:46:d9:db:1a:36:
+                    93:ed:15:9a:f7:6b:37:12:4a:28:82:03:9d:5d:37:
+                    c1:a6:fe:53:1a:60:f5:54:26:e2:1e:d8:5e:ea:d3:
+                    3b:46:c9:63:f9:6e:bf:a1:9a:ba:12:af:fc:3f:dc:
+                    0a:9f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Alternative Name: 
+                DNS:*.pixiv.net, DNS:pixiv.net, DNS:*.secure.pixiv.net, DNS:pixivision.net, DNS:*.pixivision.net, DNS:pixiv.me, DNS:*.pixiv.me, DNS:pximg.net, DNS:*.pximg.net, DNS:pixivsketch.net, DNS:*.pixivsketch.net, DNS:public-api.secure.pixiv.net, DNS:google.com, DNS:*.google.com, DNS:steamcommunity.com, DNS:*.steamcommunity.com, DNS:steampowered.com, DNS:*.steampowered.com, DNS:archiveofourown.org, DNS:*.archiveofourown.org, DNS:nyaa.si, DNS:*.nyaa.si, DNS:exhentai.org, DNS:e-hentai.org, DNS:forums.e-hentai.org, DNS:img.youtube.com, DNS:duckduckgo.com, DNS:external-content.duckduckgo.com, DNS:discord.com, DNS:*.discord.com, DNS:discordapp.com, DNS:*.discordapp.com, DNS:discordapp.net, DNS:*.discordapp.net, DNS:discord.gg, DNS:*.discord.gg, DNS:github.com
+            X509v3 Subject Key Identifier: 
+                51:D5:B6:16:23:DD:53:1D:CA:AA:1D:7C:D5:78:D0:18:6D:E1:E8:F1
+            X509v3 Authority Key Identifier: 
+                DirName:/C=CN/O=Mashiro Internet Fake Authority CA/CN=Pixiv.net
+                serial:2E:7B:96:33:CE:AF:1C:CF:93:4B:FF:3E:16:1D:B1:47:DF:68:34:87
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        76:da:69:2c:bb:53:06:ca:87:8a:f1:61:ba:71:e3:36:03:5e:
+        79:4e:6a:d9:b7:c4:fa:79:f4:af:da:14:bd:fa:5d:1b:c6:95:
+        84:01:2d:0e:3a:ad:6c:85:1b:8d:c8:0c:cc:1c:63:d7:f6:db:
+        b2:c4:27:cc:6f:37:c2:ce:0c:85:d8:3e:ac:61:62:ad:7c:9d:
+        14:95:7e:58:64:1d:37:ee:cc:23:de:40:18:a5:37:11:80:73:
+        aa:ef:20:8e:ad:8f:1f:c7:0f:a7:3e:06:98:41:1c:3b:75:9e:
+        eb:eb:8d:21:1e:6f:a9:7a:7e:78:0d:6e:c7:d4:5e:6f:fc:27:
+        61:0a:71:6d:c6:04:43:e7:58:c4:6c:3f:65:4c:89:8f:c4:7e:
+        89:14:2d:7c:74:f6:6a:62:c5:05:1b:12:54:25:3f:fc:68:a1:
+        75:63:64:e0:2b:89:9b:13:7e:0f:4a:7c:be:d4:1b:0e:0a:de:
+        fa:fb:79:28:38:63:3a:20:7d:ac:7a:20:73:fc:58:93:3d:94:
+        27:a9:b1:f4:4d:a4:e1:85:83:2c:c0:6a:03:e4:28:55:e0:ab:
+        b8:85:ef:bb:fc:c7:8d:d3:25:ec:67:18:c9:f1:e3:18:0c:47:
+        a4:80:83:11:3d:99:ac:d0:82:91:a0:1d:e9:ea:7c:a2:41:3d:
+        fd:f8:7b:79
+-----BEGIN CERTIFICATE-----
+MIIGWTCCBUGgAwIBAgIBATANBgkqhkiG9w0BAQsFADBOMQswCQYDVQQGEwJDTjEr
+MCkGA1UECgwiTWFzaGlybyBJbnRlcm5ldCBGYWtlIEF1dGhvcml0eSBDQTESMBAG
+A1UEAwwJUGl4aXYubmV0MB4XDTIzMDIxMjEzMzA0MloXDTI0MDIxMjEzMzA0Mlow
+TjELMAkGA1UEBhMCQ04xKzApBgNVBAoMIk1hc2hpcm8gSW50ZXJuZXQgRmFrZSBB
+dXRob3JpdHkgQ0ExEjAQBgNVBAMMCVBpeGl2Lm5ldDCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBALGpSpjJ1bZgr9cQFeBUdOKRWq2e5WsesUBF8Kee7d56
+ps+EXRJf96tGrdODWwIuNzORSLhMtipQY/IDEAzbGi00BESitqKx3on8RMq2mA/Q
+F2MZYKviftk63yMV0A52J7zUDRp0svBysRSOVy8ea14uGWRG6mukEzPilqYOcb2u
+FHwfaleGCYNkR/uydRsDE0Zs2dvENMGYOB7DIj6uMWh5w4d1DOwy+obhXrLZDXO1
+o1cNaZBr95IRS3xVGf5Mq57D4aH1Cpwdalr68kbZ2xo2k+0VmvdrNxJKKIIDnV03
+wab+Uxpg9VQm4h7YXurTO0bJY/luv6GauhKv/D/cCp8CAwEAAaOCA0AwggM8MAsG
+A1UdDwQEAwIHgDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwCQYDVR0T
+BAIwADCCAm0GA1UdEQSCAmQwggJgggsqLnBpeGl2Lm5ldIIJcGl4aXYubmV0ghIq
+LnNlY3VyZS5waXhpdi5uZXSCDnBpeGl2aXNpb24ubmV0ghAqLnBpeGl2aXNpb24u
+bmV0gghwaXhpdi5tZYIKKi5waXhpdi5tZYIJcHhpbWcubmV0ggsqLnB4aW1nLm5l
+dIIPcGl4aXZza2V0Y2gubmV0ghEqLnBpeGl2c2tldGNoLm5ldIIbcHVibGljLWFw
+aS5zZWN1cmUucGl4aXYubmV0ggpnb29nbGUuY29tggwqLmdvb2dsZS5jb22CEnN0
+ZWFtY29tbXVuaXR5LmNvbYIUKi5zdGVhbWNvbW11bml0eS5jb22CEHN0ZWFtcG93
+ZXJlZC5jb22CEiouc3RlYW1wb3dlcmVkLmNvbYITYXJjaGl2ZW9mb3Vyb3duLm9y
+Z4IVKi5hcmNoaXZlb2ZvdXJvd24ub3JnggdueWFhLnNpggkqLm55YWEuc2mCDGV4
+aGVudGFpLm9yZ4IMZS1oZW50YWkub3JnghNmb3J1bXMuZS1oZW50YWkub3Jngg9p
+bWcueW91dHViZS5jb22CDmR1Y2tkdWNrZ28uY29tgh9leHRlcm5hbC1jb250ZW50
+LmR1Y2tkdWNrZ28uY29tggtkaXNjb3JkLmNvbYINKi5kaXNjb3JkLmNvbYIOZGlz
+Y29yZGFwcC5jb22CECouZGlzY29yZGFwcC5jb22CDmRpc2NvcmRhcHAubmV0ghAq
+LmRpc2NvcmRhcHAubmV0ggpkaXNjb3JkLmdnggwqLmRpc2NvcmQuZ2eCCmdpdGh1
+Yi5jb20wHQYDVR0OBBYEFFHVthYj3VMdyqodfNV40Bht4ejxMHMGA1UdIwRsMGqh
+UqRQME4xCzAJBgNVBAYTAkNOMSswKQYDVQQKDCJNYXNoaXJvIEludGVybmV0IEZh
+a2UgQXV0aG9yaXR5IENBMRIwEAYDVQQDDAlQaXhpdi5uZXSCFC57ljPOrxzPk0v/
+PhYdsUffaDSHMA0GCSqGSIb3DQEBCwUAA4IBAQB22mksu1MGyoeK8WG6ceM2A155
+TmrZt8T6efSv2hS9+l0bxpWEAS0OOq1shRuNyAzMHGPX9tuyxCfMbzfCzgyF2D6s
+YWKtfJ0UlX5YZB037swj3kAYpTcRgHOq7yCOrY8fxw+nPgaYQRw7dZ7r640hHm+p
+en54DW7H1F5v/CdhCnFtxgRD51jEbD9lTImPxH6JFC18dPZqYsUFGxJUJT/8aKF1
+Y2TgK4mbE34PSny+1BsOCt76+3koOGM6IH2seiBz/FiTPZQnqbH0TaThhYMswGoD
+5ChV4Ku4he+7/MeN0yXsZxjJ8eMYDEekgIMRPZms0IKRoB3p6nyiQT39+Ht5
+-----END CERTIFICATE-----

@@ -1,0 +1,533 @@
+2023/01/21 15:19:48 [warn] 10788#2824: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/21 15:19:48 [warn] 10788#2824: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/21 15:19:48 [warn] 11008#13104: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/21 15:19:48 [warn] 11008#13104: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/21 15:20:37 [warn] 4224#14444: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/21 15:20:37 [warn] 4224#14444: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/21 15:20:37 [notice] 4224#14444: signal process started
+2023/01/21 15:22:36 [warn] 9628#10800: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/21 15:22:36 [warn] 9628#10800: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/21 15:22:36 [warn] 9020#15252: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/21 15:22:36 [warn] 9020#15252: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/21 16:04:56 [error] 9020#1804: *315 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: github.com, request: "GET /hhm1/steam-anti-dns-poisoning/security/overall-count HTTP/1.1", upstream: "https://20.27.177.113:443/hhm1/steam-anti-dns-poisoning/security/overall-count", host: "github.com", referrer: "https://github.com/hhm1/steam-anti-dns-poisoning"
+2023/01/21 21:27:10 [warn] 8392#8072: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/21 21:27:10 [warn] 8392#8072: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/21 21:27:10 [warn] 3604#1156: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/21 21:27:10 [warn] 3604#1156: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 16:41:06 [warn] 15968#11104: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 16:41:06 [warn] 15968#11104: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 16:41:06 [warn] 9956#5184: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 16:41:06 [warn] 9956#5184: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 17:17:55 [error] 9956#14544: *230 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: github.com, request: "POST /commits/badges HTTP/1.1", upstream: "https://20.27.177.113:443/commits/badges", host: "github.com", referrer: "https://github.com/dogfight360/UsbEAm/commits?author=dogfight360"
+2023/01/22 21:45:07 [error] 9956#14544: *497 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading upstream, client: 127.0.0.1, server: github.com, request: "POST /repositories/check-name HTTP/1.1", upstream: "https://20.27.177.113:443/repositories/check-name", host: "github.com", referrer: "https://github.com/new"
+2023/01/22 21:58:47 [error] 9956#14544: *788 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading upstream, client: 127.0.0.1, server: github.com, request: "PUT /upload/upload-manifest-files/1278471743 HTTP/1.1", upstream: "https://20.27.177.113:443/upload/upload-manifest-files/1278471743", host: "github.com", referrer: "https://github.com/hhm1/Steam-Anti-Dns-Poisoning-For-Linux/upload/main/src"
+2023/01/22 21:59:03 [error] 9956#14544: *1111 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: github.com, request: "POST /upload/policies/upload-manifest-files HTTP/1.1", upstream: "https://20.27.177.113:443/upload/policies/upload-manifest-files", host: "github.com", referrer: "https://github.com/hhm1/Steam-Anti-Dns-Poisoning-For-Linux/upload/main/src"
+2023/01/22 22:02:27 [error] 9956#14544: *1389 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading upstream, client: 127.0.0.1, server: github.com, request: "POST /upload/policies/upload-manifest-files HTTP/1.1", upstream: "https://20.27.177.113:443/upload/policies/upload-manifest-files", host: "github.com", referrer: "https://github.com/hhm1/Steam-Anti-Dns-Poisoning-For-Linux/upload/main"
+2023/01/22 22:04:12 [error] 9956#14544: *1498 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: github.com, request: "POST /upload/manifests HTTP/1.1", upstream: "https://20.27.177.113:443/upload/manifests", host: "github.com", referrer: "https://github.com/hhm1/Steam-Anti-Dns-Poisoning-For-Linux/upload/main"
+2023/01/22 22:14:20 [warn] 9332#7792: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 22:14:20 [warn] 9332#7792: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 22:14:20 [notice] 9332#7792: signal process started
+2023/01/22 22:14:20 [warn] 10392#14964: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 22:14:20 [warn] 10392#14964: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 22:14:20 [notice] 10392#14964: signal process started
+2023/01/22 22:14:20 [error] 10392#14964: OpenEvent("Global\ngx_stop_15968") failed (2: The system cannot find the file specified)
+2023/01/22 22:14:22 [warn] 10612#796: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 22:14:22 [warn] 10612#796: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 22:14:22 [notice] 10612#796: signal process started
+2023/01/22 22:14:22 [error] 10612#796: OpenEvent("Global\ngx_stop_15968") failed (2: The system cannot find the file specified)
+2023/01/22 22:14:22 [warn] 15888#12988: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 22:14:22 [warn] 15888#12988: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 22:14:22 [notice] 15888#12988: signal process started
+2023/01/22 22:14:22 [error] 15888#12988: OpenEvent("Global\ngx_stop_15968") failed (2: The system cannot find the file specified)
+2023/01/22 22:14:22 [warn] 11176#10068: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 22:14:22 [warn] 11176#10068: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 22:14:22 [notice] 11176#10068: signal process started
+2023/01/22 22:14:22 [error] 11176#10068: OpenEvent("Global\ngx_stop_15968") failed (2: The system cannot find the file specified)
+2023/01/22 22:14:23 [warn] 10036#15292: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 22:14:23 [warn] 10036#15292: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 22:14:23 [notice] 10036#15292: signal process started
+2023/01/22 22:14:23 [error] 10036#15292: OpenEvent("Global\ngx_stop_15968") failed (2: The system cannot find the file specified)
+2023/01/22 22:14:23 [warn] 11592#13540: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 22:14:23 [warn] 11592#13540: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 22:14:23 [notice] 11592#13540: signal process started
+2023/01/22 22:14:23 [error] 11592#13540: OpenEvent("Global\ngx_stop_15968") failed (2: The system cannot find the file specified)
+2023/01/22 22:14:23 [warn] 15424#3152: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 22:14:23 [warn] 15424#3152: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 22:14:23 [notice] 15424#3152: signal process started
+2023/01/22 22:14:23 [error] 15424#3152: OpenEvent("Global\ngx_stop_15968") failed (2: The system cannot find the file specified)
+2023/01/22 22:14:23 [warn] 11476#13408: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 22:14:23 [warn] 11476#13408: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 22:14:23 [notice] 11476#13408: signal process started
+2023/01/22 22:14:23 [error] 11476#13408: OpenEvent("Global\ngx_stop_15968") failed (2: The system cannot find the file specified)
+2023/01/22 22:14:23 [warn] 6200#15772: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 22:14:23 [warn] 6200#15772: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/22 22:14:23 [notice] 6200#15772: signal process started
+2023/01/22 22:14:23 [error] 6200#15772: OpenEvent("Global\ngx_stop_15968") failed (2: The system cannot find the file specified)
+2023/01/23 12:23:03 [warn] 1336#14696: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/23 12:23:03 [warn] 1336#14696: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/23 12:23:03 [warn] 11904#628: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/23 12:23:03 [warn] 11904#628: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/28 10:55:36 [warn] 9396#12836: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/28 10:55:36 [warn] 9396#12836: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/28 10:55:36 [warn] 15032#9800: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/28 10:55:36 [warn] 15032#9800: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/30 13:45:33 [warn] 21004#10312: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/30 13:45:33 [warn] 21004#10312: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/30 13:45:34 [warn] 17144#8480: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/01/30 13:45:34 [warn] 17144#8480: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:28:04 [warn] 2584#1784: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:28:04 [warn] 2584#1784: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:28:05 [warn] 11052#10860: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:28:05 [warn] 11052#10860: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:30:04 [warn] 5936#6180: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:30:04 [warn] 5936#6180: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:30:04 [notice] 5936#6180: signal process started
+2023/02/04 14:30:05 [warn] 5596#11260: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:30:05 [warn] 5596#11260: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:30:05 [warn] 1664#4476: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:30:05 [warn] 1664#4476: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:32:48 [warn] 8656#8388: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:32:48 [warn] 8656#8388: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:32:48 [notice] 8656#8388: signal process started
+2023/02/04 14:32:49 [warn] 8832#7400: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:32:49 [warn] 8832#7400: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:32:49 [warn] 10572#5464: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:32:49 [warn] 10572#5464: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:32:50 [warn] 1480#7236: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:32:50 [warn] 1480#7236: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:32:50 [notice] 1480#7236: signal process started
+2023/02/04 14:32:51 [warn] 5644#8432: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:32:51 [warn] 5644#8432: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:32:52 [warn] 10420#6292: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:32:52 [warn] 10420#6292: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:44:54 [warn] 5012#10744: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:44:54 [warn] 5012#10744: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/04 14:44:54 [notice] 5012#10744: signal process started
+2023/02/06 19:37:12 [warn] 15452#14736: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/06 19:37:12 [warn] 15452#14736: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/06 19:37:12 [warn] 13752#13560: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/06 19:37:12 [warn] 13752#13560: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 13:49:19 [warn] 16748#17464: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 13:49:19 [warn] 16748#17464: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 13:49:20 [warn] 14748#13788: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 13:49:20 [warn] 14748#13788: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 13:49:55 [warn] 10676#6980: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 13:49:55 [warn] 10676#6980: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 13:49:55 [notice] 10676#6980: signal process started
+2023/02/07 13:49:56 [warn] 17732#10816: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 13:49:56 [warn] 17732#10816: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 13:49:57 [warn] 13956#17648: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 13:49:57 [warn] 13956#17648: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:00:28 [warn] 1596#8176: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:00:28 [warn] 1596#8176: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:00:28 [warn] 15292#11508: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:00:28 [warn] 15292#11508: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:01:26 [warn] 11076#9472: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:01:26 [warn] 11076#9472: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:01:26 [warn] 4756#5548: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:01:26 [warn] 4756#5548: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:02:12 [warn] 9720#12000: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:02:12 [warn] 9720#12000: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:02:12 [warn] 6280#13428: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:02:12 [warn] 6280#13428: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:04:13 [warn] 12604#11740: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:04:13 [warn] 12604#11740: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:04:13 [warn] 14584#7660: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:04:13 [warn] 14584#7660: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:10:00 [warn] 10092#5528: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:10:00 [warn] 10092#5528: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:10:00 [warn] 14624#9320: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:10:00 [warn] 14624#9320: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:18:50 [warn] 128#16428: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:18:50 [warn] 128#16428: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:18:50 [warn] 9288#13212: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:18:50 [warn] 9288#13212: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:27:06 [warn] 13388#740: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:27:06 [warn] 13388#740: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:27:07 [warn] 11892#8232: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:27:07 [warn] 11892#8232: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:39:23 [warn] 12852#16180: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:39:23 [warn] 12852#16180: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:39:23 [warn] 3348#14360: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 18:39:23 [warn] 3348#14360: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 19:34:17 [warn] 15344#9716: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 19:34:17 [warn] 15344#9716: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 19:34:18 [warn] 15772#7300: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 19:34:18 [warn] 15772#7300: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 19:52:56 [warn] 8508#5424: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 19:52:56 [warn] 8508#5424: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 19:52:56 [warn] 16816#7364: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 19:52:56 [warn] 16816#7364: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 19:53:07 [warn] 8380#13836: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 19:53:07 [warn] 8380#13836: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 19:53:07 [warn] 11884#7144: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 19:53:07 [warn] 11884#7144: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 19:57:41 [warn] 7840#8096: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 19:57:41 [warn] 7840#8096: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 19:57:41 [warn] 6932#720: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 19:57:41 [warn] 6932#720: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 19:58:57 [warn] 10100#7456: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 19:58:57 [warn] 10100#7456: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 19:58:58 [warn] 1216#2108: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/07 19:58:58 [warn] 1216#2108: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:19:44 [warn] 10288#728: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:19:44 [warn] 10288#728: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:19:44 [warn] 17772#3392: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:19:44 [warn] 17772#3392: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:19:49 [warn] 11280#15308: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:19:49 [warn] 11280#15308: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:19:49 [warn] 1500#14400: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:19:49 [warn] 1500#14400: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:27:54 [warn] 16408#8124: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:27:54 [warn] 16408#8124: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:27:55 [warn] 10464#6156: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:27:55 [warn] 10464#6156: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:27:59 [warn] 5260#6124: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:27:59 [warn] 5260#6124: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:27:59 [warn] 10356#11936: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:27:59 [warn] 10356#11936: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:30:25 [warn] 11128#6592: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:30:25 [warn] 11128#6592: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:30:25 [warn] 15248#9384: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:30:25 [warn] 15248#9384: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:30:30 [warn] 3888#7928: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:30:30 [warn] 3888#7928: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:30:30 [warn] 12660#12836: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:30:30 [warn] 12660#12836: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:31:24 [warn] 14464#6644: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:31:24 [warn] 14464#6644: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:31:24 [warn] 19444#15040: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:31:24 [warn] 19444#15040: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:35:31 [warn] 12876#16284: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:35:31 [warn] 12876#16284: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:35:31 [warn] 15040#1044: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:35:31 [warn] 15040#1044: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:36:52 [warn] 3536#19428: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:36:52 [warn] 3536#19428: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:36:53 [warn] 17152#18748: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:36:53 [warn] 17152#18748: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:37:41 [warn] 9388#288: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:37:41 [warn] 9388#288: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:37:42 [warn] 12820#11800: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:37:42 [warn] 12820#11800: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:39:46 [warn] 692#5060: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:39:46 [warn] 692#5060: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:39:46 [warn] 13212#13060: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:39:46 [warn] 13212#13060: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:45:31 [warn] 16288#18456: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:45:31 [warn] 16288#18456: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:45:31 [warn] 15412#3956: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:45:31 [warn] 15412#3956: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:47:16 [warn] 13368#10068: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:47:16 [warn] 13368#10068: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:47:16 [warn] 18340#16988: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:47:16 [warn] 18340#16988: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:54:14 [warn] 19352#11284: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:54:14 [warn] 19352#11284: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:54:14 [warn] 10144#12648: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:54:14 [warn] 10144#12648: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:54:58 [warn] 18436#6616: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:54:58 [warn] 18436#6616: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:54:58 [warn] 17992#18340: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:54:58 [warn] 17992#18340: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:55:19 [warn] 17476#18424: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:55:19 [warn] 17476#18424: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:55:20 [warn] 7900#16792: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:55:20 [warn] 7900#16792: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:55:26 [warn] 4088#4936: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:55:26 [warn] 4088#4936: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:55:26 [warn] 18660#19308: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:55:26 [warn] 18660#19308: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:55:33 [warn] 10312#10108: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:55:33 [warn] 10312#10108: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:55:36 [warn] 13044#1912: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:55:36 [warn] 13044#1912: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:55:38 [warn] 3708#14924: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:55:38 [warn] 3708#14924: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:57:46 [warn] 18444#7980: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:57:46 [warn] 18444#7980: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:57:46 [warn] 10948#12204: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:57:46 [warn] 10948#12204: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:57:54 [warn] 20284#20288: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:57:54 [warn] 20284#20288: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:57:54 [warn] 20372#20376: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 21:57:54 [warn] 20372#20376: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 22:30:15 [warn] 22008#7344: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 22:30:15 [warn] 22008#7344: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 22:30:15 [warn] 19520#20632: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/08 22:30:15 [warn] 19520#20632: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:20:05 [warn] 8500#16288: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:20:05 [warn] 8500#16288: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:20:05 [warn] 19504#15984: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:20:05 [warn] 19504#15984: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:20:10 [warn] 15252#20768: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:20:10 [warn] 15252#20768: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:20:10 [warn] 19240#17596: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:20:10 [warn] 19240#17596: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:20:13 [warn] 14352#17660: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:20:13 [warn] 14352#17660: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:20:13 [warn] 21104#21772: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:20:13 [warn] 21104#21772: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:20:21 [warn] 21164#19308: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:20:21 [warn] 21164#19308: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:20:23 [warn] 12736#10468: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:20:23 [warn] 12736#10468: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:20:26 [warn] 21236#19068: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:20:26 [warn] 21236#19068: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:21:08 [warn] 5268#14644: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:21:08 [warn] 5268#14644: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:21:11 [warn] 17896#6512: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 09:21:11 [warn] 17896#6512: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 15:44:00 [warn] 8320#19504: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 15:44:00 [warn] 8320#19504: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 15:44:02 [warn] 22952#4256: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 15:44:02 [warn] 22952#4256: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 15:44:07 [warn] 16612#16588: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 15:44:07 [warn] 16612#16588: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 15:44:27 [warn] 2724#13528: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 15:44:27 [warn] 2724#13528: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 15:44:27 [warn] 3452#10536: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 15:44:27 [warn] 3452#10536: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 15:44:28 [warn] 19412#13348: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 15:44:28 [warn] 19412#13348: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 15:44:28 [warn] 18368#19300: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 15:44:28 [warn] 18368#19300: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 15:44:29 [warn] 11840#20372: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 15:44:29 [warn] 11840#20372: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 15:44:29 [warn] 6724#7064: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 15:44:29 [warn] 6724#7064: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:18:37 [warn] 14232#12500: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:18:37 [warn] 14232#12500: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:18:37 [warn] 22892#10744: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:18:37 [warn] 22892#10744: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:18:38 [warn] 8516#22332: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:18:38 [warn] 8516#22332: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:18:38 [warn] 15324#21604: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:18:38 [warn] 15324#21604: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:18:39 [warn] 23152#4988: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:18:39 [warn] 23152#4988: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:18:39 [warn] 6584#19864: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:18:39 [warn] 6584#19864: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:52:17 [warn] 2932#21796: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:52:17 [warn] 2932#21796: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:52:23 [warn] 9064#12520: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:52:23 [warn] 9064#12520: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:52:27 [warn] 12944#908: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:52:27 [warn] 12944#908: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:52:33 [warn] 22188#1940: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:52:33 [warn] 22188#1940: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:52:39 [warn] 13272#23048: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:52:39 [warn] 13272#23048: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:52:40 [warn] 14360#6548: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:52:40 [warn] 14360#6548: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:52:42 [warn] 22056#10700: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 16:52:42 [warn] 22056#10700: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 17:53:08 [warn] 1820#17776: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 17:53:08 [warn] 1820#17776: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 17:53:08 [warn] 6796#8596: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 17:53:08 [warn] 6796#8596: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 17:56:22 [warn] 10424#22608: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/09 17:56:22 [warn] 10424#22608: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:20:00 [warn] 2752#10952: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:20:00 [warn] 2752#10952: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:20:00 [warn] 18512#5192: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:20:00 [warn] 18512#5192: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:20:48 [warn] 21760#4928: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:20:48 [warn] 21760#4928: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:20:48 [notice] 21760#4928: signal process started
+2023/02/10 14:20:49 [warn] 18312#18772: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:20:49 [warn] 18312#18772: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:20:49 [warn] 21600#21352: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:20:49 [warn] 21600#21352: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:24:16 [warn] 19576#25832: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:24:16 [warn] 19576#25832: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:24:16 [notice] 19576#25832: signal process started
+2023/02/10 14:24:17 [warn] 11776#21616: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:24:17 [warn] 11776#21616: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:24:17 [warn] 7592#6624: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:24:17 [warn] 7592#6624: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:27:23 [warn] 19320#13660: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:27:23 [warn] 19320#13660: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:27:23 [notice] 19320#13660: signal process started
+2023/02/10 14:27:23 [warn] 23604#14680: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:27:23 [warn] 23604#14680: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:27:23 [warn] 22504#24464: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 14:27:23 [warn] 22504#24464: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:07:27 [warn] 21232#22800: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:07:27 [warn] 21232#22800: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:07:27 [warn] 2464#26560: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:07:27 [warn] 2464#26560: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:07:30 [warn] 26212#15448: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:07:30 [warn] 26212#15448: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:07:30 [notice] 26212#15448: signal process started
+2023/02/10 15:07:30 [warn] 6900#1592: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:07:30 [warn] 6900#1592: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:07:31 [warn] 18996#21940: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:07:31 [warn] 18996#21940: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:07:53 [warn] 22300#10096: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:07:53 [warn] 22300#10096: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:07:53 [notice] 22300#10096: signal process started
+2023/02/10 15:09:52 [warn] 19492#7064: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:09:52 [warn] 19492#7064: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:09:52 [warn] 25208#25528: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:09:52 [warn] 25208#25528: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:12:26 [error] 25208#8920: *5 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: github.com, request: "GET /dashboard/recent-activity HTTP/1.1", upstream: "https://140.82.114.4:443/dashboard/recent-activity", host: "github.com", referrer: "https://github.com/"
+2023/02/10 15:15:15 [error] 25208#8920: *29 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: github.com, request: "GET /x64architecture/wnmp/sponsor_button HTTP/1.1", upstream: "https://140.82.114.4:443/x64architecture/wnmp/sponsor_button", host: "github.com", referrer: "https://github.com/x64architecture/wnmp"
+2023/02/10 15:15:16 [error] 25208#8920: *41 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: github.com, request: "GET /notifications/indicator HTTP/1.1", upstream: "https://140.82.114.4:443/notifications/indicator", host: "github.com", referrer: "https://github.com/x64architecture/wnmp"
+2023/02/10 15:16:34 [error] 25208#8920: *52 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while SSL handshaking to upstream, client: 127.0.0.1, server: github.com, request: "GET /notifications/indicator HTTP/1.1", upstream: "https://140.82.114.4:443/notifications/indicator", host: "github.com", referrer: "https://github.com/x64architecture/wnmp"
+2023/02/10 15:32:31 [error] 25208#8920: *187 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: github.com, request: "GET /StefanNienhuis/homebridge-programmable-http-switch/show_partial?partial=tree%2Frecently_touched_branches_list HTTP/1.1", upstream: "https://140.82.114.4:443/StefanNienhuis/homebridge-programmable-http-switch/show_partial?partial=tree%2Frecently_touched_branches_list", host: "github.com", referrer: "https://github.com/StefanNienhuis/homebridge-programmable-http-switch"
+2023/02/10 15:59:30 [warn] 10196#22224: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:59:30 [warn] 10196#22224: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:59:30 [notice] 10196#22224: signal process started
+2023/02/10 15:59:38 [warn] 21688#10408: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:59:38 [warn] 21688#10408: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:59:38 [warn] 26128#14572: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 15:59:38 [warn] 26128#14572: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 16:14:51 [warn] 10484#15444: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 16:14:51 [warn] 10484#15444: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 16:14:51 [warn] 21944#11628: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 16:14:51 [warn] 21944#11628: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 16:14:56 [warn] 25084#4496: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 16:14:56 [warn] 25084#4496: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 16:14:56 [warn] 25332#13424: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 16:14:56 [warn] 25332#13424: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 16:16:05 [warn] 25760#22928: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 16:16:05 [warn] 25760#22928: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 16:16:06 [warn] 21904#17780: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 16:16:06 [warn] 21904#17780: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 18:14:37 [warn] 1216#15308: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 18:14:37 [warn] 1216#15308: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 18:14:37 [warn] 25288#10256: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 18:14:37 [warn] 25288#10256: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 18:26:52 [warn] 23256#24184: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 18:26:52 [warn] 23256#24184: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 18:26:52 [warn] 1236#880: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 18:26:52 [warn] 1236#880: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 19:28:28 [warn] 23704#6036: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 19:28:28 [warn] 23704#6036: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 19:28:28 [warn] 13728#21952: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 19:28:28 [warn] 13728#21952: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 20:02:44 [warn] 13968#22896: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 20:02:44 [warn] 13968#22896: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 20:02:45 [warn] 26696#9408: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 20:02:45 [warn] 26696#9408: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 20:11:32 [warn] 3712#16820: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 20:11:32 [warn] 3712#16820: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 20:11:40 [warn] 17600#11180: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 20:11:40 [warn] 17600#11180: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 20:15:28 [error] 17600#6900: *26 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: github.com, request: "GET /hhm1/Bocchidesu/commit/ba56623e56b84c068d474ef25939cf37d1b2cd31/rollup?direction=sw HTTP/1.1", upstream: "https://140.82.114.4:443/hhm1/Bocchidesu/commit/ba56623e56b84c068d474ef25939cf37d1b2cd31/rollup?direction=sw", host: "github.com", referrer: "https://github.com/hhm1/Bocchidesu"
+2023/02/10 20:16:11 [error] 17600#6900: *28 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: github.com, request: "GET /notifications/indicator HTTP/1.1", upstream: "https://140.82.114.4:443/notifications/indicator", host: "github.com", referrer: "https://github.com/hhm1/Bocchidesu"
+2023/02/10 20:21:32 [error] 17600#6900: *92 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while SSL handshaking to upstream, client: 127.0.0.1, server: github.com, request: "GET /hhm1/Bocchidesu HTTP/1.1", upstream: "https://140.82.114.4:443/hhm1/Bocchidesu", host: "github.com", referrer: "https://github.com/hhm1/Bocchidesu/settings/keys"
+2023/02/10 20:24:24 [error] 17600#6900: *98 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading upstream, client: 127.0.0.1, server: github.com, request: "GET /hhm1/Bocchidesu HTTP/1.1", upstream: "https://140.82.114.4:443/hhm1/Bocchidesu", host: "github.com", referrer: "https://github.com/new"
+2023/02/10 20:25:56 [warn] 24244#22132: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 20:25:56 [warn] 24244#22132: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 20:25:56 [warn] 17508#5740: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 20:25:56 [warn] 17508#5740: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 22:31:05 [warn] 24284#24484: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 22:31:05 [warn] 24284#24484: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 22:31:05 [warn] 26284#6920: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 22:31:05 [warn] 26284#6920: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 22:31:13 [warn] 27524#10300: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 22:31:13 [warn] 27524#10300: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 22:31:14 [warn] 26964#17536: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 22:31:14 [warn] 26964#17536: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 22:37:58 [warn] 17004#14216: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 22:37:58 [warn] 17004#14216: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 22:37:58 [warn] 24540#26156: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/10 22:37:58 [warn] 24540#26156: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/11 08:14:03 [error] 24540#21384: *10 client intended to send too large chunked body: 104849591+8192 bytes, client: 127.0.0.1, server: github.com, request: "POST /hhm1/Bocchidesu.git/git-receive-pack HTTP/1.1", host: "github.com"
+2023/02/11 08:16:34 [error] 24540#21384: *15 client intended to send too large chunked body: 104849591+16384 bytes, client: 127.0.0.1, server: github.com, request: "POST /hhm1/Bocchidesu.git/git-receive-pack HTTP/1.1", host: "github.com"
+2023/02/11 08:19:24 [error] 24540#21384: *20 client intended to send too large chunked body: 104841399+16384 bytes, client: 127.0.0.1, server: github.com, request: "POST /hhm1/Bocchidesu.git/git-receive-pack HTTP/1.1", host: "github.com"
+2023/02/11 08:22:38 [error] 24540#21384: *31 client intended to send too large chunked body: 104841399+16384 bytes, client: 127.0.0.1, server: github.com, request: "POST /hhm1/Bocchidesu.git/git-receive-pack HTTP/1.1", host: "github.com"
+2023/02/11 08:23:08 [warn] 18368#10764: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/11 08:23:08 [warn] 18368#10764: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/11 08:23:08 [warn] 24608#9676: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/11 08:23:08 [warn] 24608#9676: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/11 08:25:28 [error] 24608#26760: *4 client intended to send too large chunked body: 104841399+16384 bytes, client: 127.0.0.1, server: github.com, request: "POST /hhm1/Bocchidesu.git/git-receive-pack HTTP/1.1", host: "github.com"
+2023/02/11 08:34:31 [error] 24608#26760: *82 upstream prematurely closed connection while reading upstream, client: 127.0.0.1, server: github.com, request: "POST /hhm1/Bocchidesu.git/git-receive-pack HTTP/1.1", upstream: "https://20.27.177.113:443/hhm1/Bocchidesu.git/git-receive-pack", host: "github.com"
+2023/02/11 08:55:06 [warn] 6280#2124: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/11 08:55:06 [warn] 6280#2124: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/11 08:55:07 [warn] 11100#23892: conflicting server name "cdn.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/11 08:55:07 [warn] 11100#23892: conflicting server name "url9624.discordapp.com" on 0.0.0.0:443, ignored
+2023/02/12 18:14:38 [emerg] 7860#4192: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/12 19:58:01 [emerg] 13068#10952: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/12 19:58:03 [emerg] 12584#13920: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/12 20:04:29 [emerg] 13876#3688: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/12 20:04:31 [emerg] 8440#9520: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/12 20:05:33 [emerg] 11684#7048: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/12 20:05:35 [emerg] 9276#12712: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/12 20:07:16 [emerg] 11260#6492: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/12 20:07:18 [emerg] 10888#5544: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/12 20:19:32 [emerg] 6912#8880: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/12 20:19:36 [emerg] 8044#7536: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/12 20:19:37 [emerg] 7720#13032: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/12 20:19:38 [emerg] 13864#13980: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/12 20:21:57 [emerg] 13248#13332: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/12 21:32:17 [error] 7396#15112: *1 peer closed connection in SSL handshake while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/c40c84ca18d84633a9d86b4046a91437.svg HTTP/1.1", upstream: "https://162.159.138.232:443/assets/c40c84ca18d84633a9d86b4046a91437.svg", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:32:17 [error] 7396#15112: *11 peer closed connection in SSL handshake while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/575a0322f3b36ca2fecb23ad2c6dd5ad.svg HTTP/1.1", upstream: "https://162.159.138.232:443/assets/575a0322f3b36ca2fecb23ad2c6dd5ad.svg", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:32:17 [error] 7396#15112: *2 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/8a8375ab7908384e1fd6efe408284203.svg HTTP/1.1", upstream: "https://162.159.138.232:443/assets/8a8375ab7908384e1fd6efe408284203.svg", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:32:19 [error] 7396#15112: *10 peer closed connection in SSL handshake while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/46b2132c01604c9493d558de444929f4.svg HTTP/1.1", upstream: "https://162.159.138.232:443/assets/46b2132c01604c9493d558de444929f4.svg", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:32:23 [error] 7396#15112: *12 peer closed connection in SSL handshake (10054: An existing connection was forcibly closed by the remote host) while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/921b1ae33edca174b6ebe787bb8b6c3b.svg HTTP/1.1", upstream: "https://162.159.138.232:443/assets/921b1ae33edca174b6ebe787bb8b6c3b.svg", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:32:24 [error] 7396#15112: *9 peer closed connection in SSL handshake (10054: An existing connection was forcibly closed by the remote host) while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/082e59042c15a057af01d5b717d01fb3.woff2 HTTP/1.1", upstream: "https://162.159.138.232:443/assets/082e59042c15a057af01d5b717d01fb3.woff2", host: "discord.com", referrer: "https://discord.com/assets/0.dd477c33af594662b990.css"
+2023/02/12 21:32:55 [error] 7396#15112: *54 peer closed connection in SSL handshake while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/921b1ae33edca174b6ebe787bb8b6c3b.svg HTTP/1.1", upstream: "https://162.159.138.232:443/assets/921b1ae33edca174b6ebe787bb8b6c3b.svg", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:32:56 [error] 7396#15112: *50 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/46b2132c01604c9493d558de444929f4.svg HTTP/1.1", upstream: "https://162.159.138.232:443/assets/46b2132c01604c9493d558de444929f4.svg", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:32:56 [error] 7396#15112: *56 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/a188414ce83f2454b9d71a47c3d95909.svg HTTP/1.1", upstream: "https://162.159.138.232:443/assets/a188414ce83f2454b9d71a47c3d95909.svg", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:32:56 [error] 7396#15112: *57 peer closed connection in SSL handshake while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/5e278fbeae88c37e43544d6462c9c417.woff2 HTTP/1.1", upstream: "https://162.159.138.232:443/assets/5e278fbeae88c37e43544d6462c9c417.woff2", host: "discord.com", referrer: "https://discord.com/assets/0.dd477c33af594662b990.css"
+2023/02/12 21:32:56 [error] 7396#15112: *53 peer closed connection in SSL handshake while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /cdn-cgi/challenge-platform/h/b/scripts/pica.js HTTP/1.1", upstream: "https://162.159.138.232:443/cdn-cgi/challenge-platform/h/b/scripts/pica.js", host: "discord.com"
+2023/02/12 21:32:57 [error] 7396#15112: *49 peer closed connection in SSL handshake while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /api/v9/experiments HTTP/1.1", upstream: "https://162.159.138.232:443/api/v9/experiments", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:33:12 [error] 7396#15112: *50 peer closed connection in SSL handshake while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/oneTrust/v4/consent/04da1d72-0626-4fff-b3c6-150c719cc115/40451c6c-36d5-41b4-a718-aca26f058456/zh.json HTTP/1.1", upstream: "https://162.159.138.232:443/assets/oneTrust/v4/consent/04da1d72-0626-4fff-b3c6-150c719cc115/40451c6c-36d5-41b4-a718-aca26f058456/zh.json", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:33:12 [error] 7396#15112: *56 peer closed connection in SSL handshake while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/b2da62f020089ccee92860e4defafdb4.png HTTP/1.1", upstream: "https://162.159.138.232:443/assets/b2da62f020089ccee92860e4defafdb4.png", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:33:13 [error] 7396#15112: *49 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: discord.com, request: "POST /api/v9/auth/register HTTP/1.1", upstream: "https://162.159.138.232:443/api/v9/auth/register", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:33:14 [error] 7396#15112: *57 peer closed connection in SSL handshake while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/cd784686ed3f8081f9ffd2ebca329a5b.svg HTTP/1.1", upstream: "https://162.159.138.232:443/assets/cd784686ed3f8081f9ffd2ebca329a5b.svg", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:33:18 [error] 7396#15112: *54 peer closed connection in SSL handshake while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /api/v9/auth/location-metadata HTTP/1.1", upstream: "https://162.159.138.232:443/api/v9/auth/location-metadata", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:33:29 [error] 7396#15112: *50 peer closed connection in SSL handshake while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/847541504914fd33810e70a0ea73177e.ico HTTP/1.1", upstream: "https://162.159.138.232:443/assets/847541504914fd33810e70a0ea73177e.ico", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:33:33 [error] 7396#15112: *57 peer closed connection in SSL handshake (10054: An existing connection was forcibly closed by the remote host) while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/0bd04605d6f9576c8983.js HTTP/1.1", upstream: "https://162.159.138.232:443/assets/0bd04605d6f9576c8983.js", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:33:35 [error] 7396#15112: *49 peer closed connection in SSL handshake while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/980082c4328266be3342a03dcb37c432.woff2 HTTP/1.1", upstream: "https://162.159.138.232:443/assets/980082c4328266be3342a03dcb37c432.woff2", host: "discord.com", referrer: "https://discord.com/assets/0.dd477c33af594662b990.css"
+2023/02/12 21:33:35 [error] 7396#15112: *53 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/3590df6f2ae2f7202dab15c0bd3aca9a.png HTTP/1.1", upstream: "https://162.159.138.232:443/assets/3590df6f2ae2f7202dab15c0bd3aca9a.png", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:33:37 [error] 7396#15112: *56 peer closed connection in SSL handshake while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/7fa2adf98f26db34178bb30a63dabe8c.png HTTP/1.1", upstream: "https://162.159.138.232:443/assets/7fa2adf98f26db34178bb30a63dabe8c.png", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:33:37 [error] 7396#15112: *54 peer closed connection in SSL handshake while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/e6d6b255259ac878d00819a9555072ad.png HTTP/1.1", upstream: "https://162.159.138.232:443/assets/e6d6b255259ac878d00819a9555072ad.png", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:33:46 [error] 7396#15112: *50 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/02e75e392ab5d5a8ed5ab4f8fcae9c77.png HTTP/1.1", upstream: "https://162.159.138.232:443/assets/02e75e392ab5d5a8ed5ab4f8fcae9c77.png", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:33:53 [error] 7396#15112: *56 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/cbf50c2e3287d2118f741e827a3ddaf5.png HTTP/1.1", upstream: "https://162.159.138.232:443/assets/cbf50c2e3287d2118f741e827a3ddaf5.png", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:33:54 [error] 7396#15112: *54 peer closed connection in SSL handshake (10054: An existing connection was forcibly closed by the remote host) while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/f23c5c28c4429691f7c54af93876d661.png HTTP/1.1", upstream: "https://162.159.138.232:443/assets/f23c5c28c4429691f7c54af93876d661.png", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:33:57 [error] 7396#15112: *53 peer closed connection in SSL handshake while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/08d0c70a708cd25acecb7a8b0cb0eb23.png HTTP/1.1", upstream: "https://162.159.138.232:443/assets/08d0c70a708cd25acecb7a8b0cb0eb23.png", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:33:58 [error] 7396#15112: *49 peer closed connection in SSL handshake while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/cfc9643cb00e44fae64bfeda3556bfd9.png HTTP/1.1", upstream: "https://162.159.138.232:443/assets/cfc9643cb00e44fae64bfeda3556bfd9.png", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:34:03 [error] 7396#15112: *50 peer closed connection in SSL handshake while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/d5073ab2ca9ee7c06c3f4d761968ac44.png HTTP/1.1", upstream: "https://162.159.138.232:443/assets/d5073ab2ca9ee7c06c3f4d761968ac44.png", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:34:11 [error] 7396#15112: *54 peer closed connection in SSL handshake while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/2ac1239c26c4ae1d27817a9d7b85dc53.png HTTP/1.1", upstream: "https://162.159.138.232:443/assets/2ac1239c26c4ae1d27817a9d7b85dc53.png", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:34:14 [error] 7396#15112: *56 connect() failed (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/64f37efd5319b9b581557604864f042a.png HTTP/1.1", upstream: "https://162.159.138.232:443/assets/64f37efd5319b9b581557604864f042a.png", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:34:17 [error] 7396#15112: *53 peer closed connection in SSL handshake while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/b1309f8892f138383d8b0b6ff8e23463.png HTTP/1.1", upstream: "https://162.159.138.232:443/assets/b1309f8892f138383d8b0b6ff8e23463.png", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:34:21 [error] 7396#15112: *50 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/b2da62f020089ccee92860e4defafdb4.png HTTP/1.1", upstream: "https://162.159.138.232:443/assets/b2da62f020089ccee92860e4defafdb4.png", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:34:30 [error] 7396#15112: *54 peer closed connection in SSL handshake (10054: An existing connection was forcibly closed by the remote host) while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/cd784686ed3f8081f9ffd2ebca329a5b.svg HTTP/1.1", upstream: "https://162.159.138.232:443/assets/cd784686ed3f8081f9ffd2ebca329a5b.svg", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:34:33 [error] 7396#15112: *57 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/8d1d548a64761f0c5b1d7c9e00ae66a6.png HTTP/1.1", upstream: "https://162.159.138.232:443/assets/8d1d548a64761f0c5b1d7c9e00ae66a6.png", host: "discord.com", referrer: "https://discord.com/"
+2023/02/12 21:34:58 [error] 7396#15112: *49 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while SSL handshaking to upstream, client: 127.0.0.1, server: discord.com, request: "GET /assets/d52ce383ca6d8eb53588bcc042574cae.png HTTP/1.1", upstream: "https://162.159.138.232:443/assets/d52ce383ca6d8eb53588bcc042574cae.png", host: "discord.com", referrer: "https://discord.com/"
+2023/02/13 12:02:48 [emerg] 8924#8188: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:02:56 [emerg] 17128#4108: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:06:18 [emerg] 2160#14420: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:06:49 [emerg] 12940#6800: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:09:22 [emerg] 7280#17140: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:10:08 [emerg] 13532#5036: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:10:22 [emerg] 3604#14484: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:10:27 [emerg] 6280#13384: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:10:29 [emerg] 14320#11560: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:10:30 [emerg] 11624#6696: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:28:13 [emerg] 7868#12616: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:28:15 [emerg] 2740#15272: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:28:16 [emerg] 7444#11688: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:28:18 [emerg] 9880#5200: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:28:19 [emerg] 10540#8564: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:28:21 [emerg] 5532#15528: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:28:22 [emerg] 11040#13376: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:28:23 [emerg] 17204#15608: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:28:24 [emerg] 10508#14740: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:28:26 [emerg] 12440#16028: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:29:34 [emerg] 2236#3708: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:29:36 [emerg] 1776#7140: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:42:05 [emerg] 17288#3504: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:42:08 [emerg] 13512#8992: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:42:09 [emerg] 16440#13648: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:42:10 [emerg] 5708#6004: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 12:42:12 [emerg] 4708#11532: CreateDirectory() "D:\Steam-Anti-DNS-Poisoning-main/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/02/13 13:53:17 [error] 3128#13128: *1 upstream prematurely closed connection while reading upstream, client: 127.0.0.1, server: github.com, request: "POST /hhm1/Steam-Anti-DNS-Poisoning.git/git-receive-pack HTTP/1.1", upstream: "https://20.27.177.113:443/hhm1/Steam-Anti-DNS-Poisoning.git/git-receive-pack", host: "github.com"
+2023/02/13 13:55:01 [error] 3128#13128: *6 upstream prematurely closed connection while reading upstream, client: 127.0.0.1, server: github.com, request: "POST /hhm1/Steam-Anti-DNS-Poisoning.git/git-receive-pack HTTP/1.1", upstream: "https://20.27.177.113:443/hhm1/Steam-Anti-DNS-Poisoning.git/git-receive-pack", host: "github.com"
+2023/02/13 13:55:33 [error] 3128#13128: *21 upstream prematurely closed connection while reading upstream, client: 127.0.0.1, server: github.com, request: "POST /hhm1/Steam-Anti-DNS-Poisoning.git/git-receive-pack HTTP/1.1", upstream: "https://20.27.177.113:443/hhm1/Steam-Anti-DNS-Poisoning.git/git-receive-pack", host: "github.com"
+2023/02/13 14:04:05 [error] 3128#13128: *26 upstream prematurely closed connection while reading upstream, client: 127.0.0.1, server: github.com, request: "POST /hhm1/Steam-Anti-DNS-Poisoning.git/git-receive-pack HTTP/1.1", upstream: "https://20.27.177.113:443/hhm1/Steam-Anti-DNS-Poisoning.git/git-receive-pack", host: "github.com"
+2023/02/13 14:04:41 [error] 3128#13128: *31 upstream prematurely closed connection while reading upstream, client: 127.0.0.1, server: github.com, request: "POST /hhm1/Steam-Anti-DNS-Poisoning.git/git-receive-pack HTTP/1.1", upstream: "https://20.27.177.113:443/hhm1/Steam-Anti-DNS-Poisoning.git/git-receive-pack", host: "github.com"

@@ -1,0 +1,8 @@
+127.0.0.1 discord.com #discord
+127.0.0.1 *.discord.com #discord
+127.0.0.1 discordapp.com #discord
+127.0.0.1 *.discordapp.com #discord
+127.0.0.1 discordapp.net #discord
+127.0.0.1 *.discordapp.net #discord
+127.0.0.1 discord.gg #discord
+127.0.0.1 *.discord.gg #discord

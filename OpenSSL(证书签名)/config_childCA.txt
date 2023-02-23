@@ -7,7 +7,7 @@ req_extensions				= v3_req
 
 [ req_distinguished_name ]
 countryName				= CN
-organizationName			= Mashiro Internet Fake Authority CA
+organizationName			= steam-anti-dns-poisoning CA
 commonName				= Pixiv.net
 
 [ alternate_names ]
@@ -36,7 +36,7 @@ DNS.22 = *.nyaa.si
 DNS.23 = exhentai.org
 DNS.24 = e-hentai.org
 DNS.25 = forums.e-hentai.org
-DNS.26 = img.youtube.com
+DNS.26 = *.github.com
 DNS.27 = duckduckgo.com
 DNS.28 = external-content.duckduckgo.com
 DNS.29 = discord.com
@@ -48,6 +48,9 @@ DNS.34 = *.discordapp.net
 DNS.45 =  discord.gg
 DNS.46 = *.discord.gg
 DNS.47 = github.com
+DNS.48 = *.githubsercontent.com
+DNS.49 = githubstatus.com
+DNS.50 = github.global.ssl.fastly.net
 [ v3_req ]
 keyUsage				= digitalSignature
 extendedKeyUsage			= serverAuth,clientAuth

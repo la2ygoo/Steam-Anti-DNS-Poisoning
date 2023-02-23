@@ -7,7 +7,7 @@ v3_extensions			= v3_ext
 
 [ req_distinguished_name ]
 countryName			= CN
-organizationName		= Mashiro Internet Fake Authority CA
+organizationName		= steam-anti-dns-poisoning CA
 commonName			= Pixiv.net
 
 [ v3_ext ]

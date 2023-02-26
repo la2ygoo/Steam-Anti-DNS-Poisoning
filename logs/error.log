@@ -1,0 +1,80 @@
+2023/02/26 16:06:04 [warn] 5516#5452: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in D:\Steam-Anti-DNS-Poisoning-main/conf/discord.conf:59
+2023/02/26 16:06:04 [warn] 5516#5452: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in D:\Steam-Anti-DNS-Poisoning-main/conf/discord.conf:103
+2023/02/26 16:06:04 [emerg] 5516#5452: cannot load certificate "D:\Steam-Anti-DNS-Poisoning-main/conf/dhxtest.crt": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('D:\Steam-Anti-DNS-Poisoning-main/conf/dhxtest.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2023/02/26 16:06:44 [warn] 10216#9200: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in D:\Steam-Anti-DNS-Poisoning-main/conf/discord.conf:59
+2023/02/26 16:06:44 [warn] 10216#9200: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in D:\Steam-Anti-DNS-Poisoning-main/conf/discord.conf:103
+2023/02/26 16:06:44 [emerg] 10216#9200: cannot load certificate "D:\Steam-Anti-DNS-Poisoning-main/conf/dhxtest.crt": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('D:\Steam-Anti-DNS-Poisoning-main/conf/dhxtest.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2023/02/26 16:06:45 [warn] 12420#12708: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in D:\Steam-Anti-DNS-Poisoning-main/conf/discord.conf:59
+2023/02/26 16:06:45 [warn] 12420#12708: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in D:\Steam-Anti-DNS-Poisoning-main/conf/discord.conf:103
+2023/02/26 16:06:45 [emerg] 12420#12708: cannot load certificate "D:\Steam-Anti-DNS-Poisoning-main/conf/dhxtest.crt": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('D:\Steam-Anti-DNS-Poisoning-main/conf/dhxtest.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2023/02/26 16:07:38 [warn] 5816#4032: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in D:\Steam-Anti-DNS-Poisoning-main/conf/discord.conf:101
+2023/02/26 16:07:38 [emerg] 5816#4032: cannot load certificate "D:\Steam-Anti-DNS-Poisoning-main/conf/dhxtest.crt": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('D:\Steam-Anti-DNS-Poisoning-main/conf/dhxtest.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2023/02/26 16:07:39 [warn] 11904#5316: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in D:\Steam-Anti-DNS-Poisoning-main/conf/discord.conf:101
+2023/02/26 16:07:39 [emerg] 11904#5316: cannot load certificate "D:\Steam-Anti-DNS-Poisoning-main/conf/dhxtest.crt": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('D:\Steam-Anti-DNS-Poisoning-main/conf/dhxtest.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2023/02/26 16:08:28 [emerg] 16236#7804: cannot load certificate "D:\Steam-Anti-DNS-Poisoning-main/conf/dhxtest.crt": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('D:\Steam-Anti-DNS-Poisoning-main/conf/dhxtest.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2023/02/26 16:08:29 [emerg] 5584#11812: cannot load certificate "D:\Steam-Anti-DNS-Poisoning-main/conf/dhxtest.crt": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('D:\Steam-Anti-DNS-Poisoning-main/conf/dhxtest.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2023/02/26 16:09:18 [warn] 6896#2312: conflicting server name "payment.pixiv.net" on 0.0.0.0:443, ignored
+2023/02/26 16:09:18 [warn] 6896#2312: conflicting server name "comic.pixiv.net" on 0.0.0.0:443, ignored
+2023/02/26 16:09:18 [warn] 6896#2312: conflicting server name "*.archiveofourown.org" on 0.0.0.0:443, ignored
+2023/02/26 16:09:18 [warn] 6896#2312: conflicting server name "archiveofourown.org" on 0.0.0.0:443, ignored
+2023/02/26 16:09:18 [warn] 6896#2312: conflicting server name "gist.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:09:18 [warn] 6896#2312: conflicting server name "repository-images.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:09:18 [warn] 6896#2312: conflicting server name "desktop.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:09:18 [warn] 6896#2312: conflicting server name "avatars2.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:09:18 [warn] 8896#17084: conflicting server name "payment.pixiv.net" on 0.0.0.0:443, ignored
+2023/02/26 16:09:18 [warn] 8896#17084: conflicting server name "comic.pixiv.net" on 0.0.0.0:443, ignored
+2023/02/26 16:09:18 [warn] 8896#17084: conflicting server name "*.archiveofourown.org" on 0.0.0.0:443, ignored
+2023/02/26 16:09:18 [warn] 8896#17084: conflicting server name "archiveofourown.org" on 0.0.0.0:443, ignored
+2023/02/26 16:09:18 [warn] 8896#17084: conflicting server name "gist.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:09:18 [warn] 8896#17084: conflicting server name "repository-images.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:09:18 [warn] 8896#17084: conflicting server name "desktop.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:09:18 [warn] 8896#17084: conflicting server name "avatars2.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:09:21 [warn] 2236#15136: conflicting server name "payment.pixiv.net" on 0.0.0.0:443, ignored
+2023/02/26 16:09:21 [warn] 2236#15136: conflicting server name "comic.pixiv.net" on 0.0.0.0:443, ignored
+2023/02/26 16:09:21 [warn] 2236#15136: conflicting server name "*.archiveofourown.org" on 0.0.0.0:443, ignored
+2023/02/26 16:09:21 [warn] 2236#15136: conflicting server name "archiveofourown.org" on 0.0.0.0:443, ignored
+2023/02/26 16:09:21 [warn] 2236#15136: conflicting server name "gist.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:09:21 [warn] 2236#15136: conflicting server name "repository-images.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:09:21 [warn] 2236#15136: conflicting server name "desktop.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:09:21 [warn] 2236#15136: conflicting server name "avatars2.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:09:21 [warn] 16220#12352: conflicting server name "payment.pixiv.net" on 0.0.0.0:443, ignored
+2023/02/26 16:09:21 [warn] 16220#12352: conflicting server name "comic.pixiv.net" on 0.0.0.0:443, ignored
+2023/02/26 16:09:21 [warn] 16220#12352: conflicting server name "*.archiveofourown.org" on 0.0.0.0:443, ignored
+2023/02/26 16:09:21 [warn] 16220#12352: conflicting server name "archiveofourown.org" on 0.0.0.0:443, ignored
+2023/02/26 16:09:21 [warn] 16220#12352: conflicting server name "gist.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:09:21 [warn] 16220#12352: conflicting server name "repository-images.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:09:21 [warn] 16220#12352: conflicting server name "desktop.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:09:21 [warn] 16220#12352: conflicting server name "avatars2.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:26:36 [warn] 14992#9732: conflicting server name "payment.pixiv.net" on 0.0.0.0:443, ignored
+2023/02/26 16:26:36 [warn] 14992#9732: conflicting server name "comic.pixiv.net" on 0.0.0.0:443, ignored
+2023/02/26 16:26:36 [warn] 14992#9732: conflicting server name "*.archiveofourown.org" on 0.0.0.0:443, ignored
+2023/02/26 16:26:36 [warn] 14992#9732: conflicting server name "archiveofourown.org" on 0.0.0.0:443, ignored
+2023/02/26 16:26:36 [warn] 14992#9732: conflicting server name "gist.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:26:36 [warn] 14992#9732: conflicting server name "repository-images.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:26:36 [warn] 14992#9732: conflicting server name "desktop.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:26:36 [warn] 14992#9732: conflicting server name "avatars2.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:26:36 [warn] 13076#16312: conflicting server name "payment.pixiv.net" on 0.0.0.0:443, ignored
+2023/02/26 16:26:36 [warn] 13076#16312: conflicting server name "comic.pixiv.net" on 0.0.0.0:443, ignored
+2023/02/26 16:26:36 [warn] 13076#16312: conflicting server name "*.archiveofourown.org" on 0.0.0.0:443, ignored
+2023/02/26 16:26:36 [warn] 13076#16312: conflicting server name "archiveofourown.org" on 0.0.0.0:443, ignored
+2023/02/26 16:26:36 [warn] 13076#16312: conflicting server name "gist.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:26:36 [warn] 13076#16312: conflicting server name "repository-images.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:26:36 [warn] 13076#16312: conflicting server name "desktop.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:26:36 [warn] 13076#16312: conflicting server name "avatars2.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:27:20 [error] 13076#16812: *3 connect() failed (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: github.com, request: "GET /hhm1/Steam-Anti-DNS-Poisoning HTTP/2.0", upstream: "https://20.205.243.166:443/hhm1/Steam-Anti-DNS-Poisoning", host: "github.com", referrer: "https://github.com/"
+2023/02/26 16:29:36 [warn] 13124#13872: conflicting server name "payment.pixiv.net" on 0.0.0.0:443, ignored
+2023/02/26 16:29:36 [warn] 13124#13872: conflicting server name "comic.pixiv.net" on 0.0.0.0:443, ignored
+2023/02/26 16:29:36 [warn] 13124#13872: conflicting server name "*.archiveofourown.org" on 0.0.0.0:443, ignored
+2023/02/26 16:29:36 [warn] 13124#13872: conflicting server name "archiveofourown.org" on 0.0.0.0:443, ignored
+2023/02/26 16:29:36 [warn] 13124#13872: conflicting server name "gist.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:29:36 [warn] 13124#13872: conflicting server name "repository-images.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:29:36 [warn] 13124#13872: conflicting server name "desktop.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:29:36 [warn] 13124#13872: conflicting server name "avatars2.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:29:37 [warn] 4080#8820: conflicting server name "payment.pixiv.net" on 0.0.0.0:443, ignored
+2023/02/26 16:29:37 [warn] 4080#8820: conflicting server name "comic.pixiv.net" on 0.0.0.0:443, ignored
+2023/02/26 16:29:37 [warn] 4080#8820: conflicting server name "*.archiveofourown.org" on 0.0.0.0:443, ignored
+2023/02/26 16:29:37 [warn] 4080#8820: conflicting server name "archiveofourown.org" on 0.0.0.0:443, ignored
+2023/02/26 16:29:37 [warn] 4080#8820: conflicting server name "gist.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:29:37 [warn] 4080#8820: conflicting server name "repository-images.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:29:37 [warn] 4080#8820: conflicting server name "desktop.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/02/26 16:29:37 [warn] 4080#8820: conflicting server name "avatars2.githubusercontent.com" on 0.0.0.0:443, ignored

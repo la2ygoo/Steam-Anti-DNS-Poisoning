@@ -52,6 +52,13 @@ DNS.39 = githubstatus.com
 DNS.40 = github.global.ssl.fastly.net
 DNS.41 = *.github.com
 DNS.42 = githubusercontent.com
+DNS.43 = onedrive.live.com
+DNS.44 = *.onedrive.live.com
+DNS.45 = 1drv.ms
+DNS.46 = v2ex.com
+DNS.47 = *.v2ex.com
+DNS.48 = gravatar.com
+DNS.49 = *.gravatar.com
 [ v3_req ]
 keyUsage				= digitalSignature
 extendedKeyUsage			= serverAuth,clientAuth

@@ -1,1 +1,1 @@
-V	240226010957Z		01	unknown	/C=CN/O=steam-anti-dns-poisoning CA/CN=Pixiv.net
+V	240228012456Z		01	unknown	/C=CN/O=steam-anti-dns-poisoning CA/CN=Pixiv.net

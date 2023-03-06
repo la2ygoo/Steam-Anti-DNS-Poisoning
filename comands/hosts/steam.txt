@@ -1,5 +1,0 @@
-
-127.0.0.1 store.steampowered.com #steam
-127.0.0.1 steampowered.com #steam
-127.0.0.1 steamcommunity.com #steam
-

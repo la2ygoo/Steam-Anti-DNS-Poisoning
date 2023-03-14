@@ -2153,3 +2153,4 @@
 2023/03/07 16:57:00 [warn] 16856#20504: conflicting server name "repository-images.githubusercontent.com" on 0.0.0.0:443, ignored
 2023/03/07 16:57:00 [warn] 16856#20504: conflicting server name "desktop.githubusercontent.com" on 0.0.0.0:443, ignored
 2023/03/07 16:57:00 [warn] 16856#20504: conflicting server name "avatars2.githubusercontent.com" on 0.0.0.0:443, ignored
+2023/03/13 17:04:13 [emerg] 15244#1860: CreateFile() "D:\新建文件夹\Steam-Anti-DNS-Poisoning-1.4.3/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)

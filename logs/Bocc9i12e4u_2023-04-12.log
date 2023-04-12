@@ -1,0 +1,6 @@
+2023-04-12 09:58:08,872 [1] INFO  mylogger - the hosts.exe run success
+2023-04-12 09:58:08,886 [1] ERROR mylogger - the nginx killed failed
+2023-04-12 09:58:10,801 [1] INFO  mylogger - close success！
+2023-04-12 09:58:11,459 [1] INFO  mylogger - the hosts.exe run success
+2023-04-12 09:58:11,461 [1] ERROR mylogger - the nginx killed failed
+2023-04-12 09:58:13,040 [1] INFO  mylogger - close success！

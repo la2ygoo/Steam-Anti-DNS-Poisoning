@@ -1,0 +1,4 @@
+2023-04-12 09:01:34,699 [1] ERROR mylogger - the 'ms.txt' is lost or hosts writing failed
+2023-04-12 09:01:36,086 [1] INFO  mylogger - the nginx.exe start successful
+2023-04-12 09:01:36,897 [1] INFO  mylogger - start success
+2023-04-12 09:01:41,098 [1] WARN  mylogger - the 80 port is using!

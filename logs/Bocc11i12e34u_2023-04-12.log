@@ -1,0 +1,4 @@
+2023-04-12 11:29:37,219 [1] INFO  mylogger - the hosts.exe run success
+2023-04-12 11:29:38,145 [1] INFO  mylogger - the nginx kill success
+2023-04-12 11:29:39,765 [1] INFO  mylogger - close success！
+2023-04-12 11:29:40,508 [1] ERROR mylogger - port check failed!

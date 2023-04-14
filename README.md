@@ -26,7 +26,7 @@
 &nbsp;
 <ul>
  	<li>安装完证书之后打开"Bocchidesu.exe"，先选择要加速的网站，之后点击开关，不想用了可以关闭</li>
- 	<li><img class="alignnone size-full wp-image-482" src="https://haoming.gq/wp-content/uploads/2023/01/屏幕截图-2023-02-11-092035.png" alt="" width="288" height="382" /></li>
+ 	<li><img class="alignnone size-medium" src="https://haoming9245.top/wp-content/uploads/2023/01/屏幕截图-2023-02-11-092035.png" width="288" height="382" /></li>
 </ul>
 &nbsp;
 <ul>

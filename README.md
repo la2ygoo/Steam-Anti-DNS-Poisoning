@@ -30,12 +30,13 @@
 </ul>
 &nbsp;
 <ul>
+ 	<li style="list-style-type: none;">
+<ul>
  	<li><a href="http://download.haoming.gq/steam-anti-dns-poisoning.7z">下载链接</a></li>
- 	<li><a href="https://github.com/hhm1/steam-anti-dns-poisoning">GitHub源码</a></li>
- 	<li><a href="https://haoming.gq/2023/01/22/steam-anti-dns-poisoning-for-linux-ubuntu-document" target="_blank" rel="noopener">Linux使用文档</a></li>
- 	<li><a href="https://github.com/hhm1/Steam-Anti-Dns-Poisoning-For-Linux" target="_blank" rel="noopener">GitHub源码-Linux</a></li>
- 	<li><a href="https://haoming.gq/?p=141">Mac使用文档</a></li>
- 	<li><a href="https://github.com/hhm1/Bocchidesu">“Bocchidesu.exe”源代码</a></li>
+ 	<li><a href="https://afdian.net/a/haoming">爱发电</a></li>
+ 	<li><a href="https://haoming.gq/%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e7%9b%b4%e8%be%be/">源码直达</a></li>
+</ul>
+</li>
 </ul>
 &nbsp;
 <ul>

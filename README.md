@@ -26,17 +26,16 @@
 &nbsp;
 <ul>
  	<li>安装完证书之后打开"Bocchidesu.exe"，先选择要加速的网站，之后点击开关，不想用了可以关闭</li>
- 	<li><img class="alignnone size-medium" src="https://haoming9245.top/wp-content/uploads/2023/01/屏幕截图-2023-02-11-092035.png" width="288" height="382" /></li>
+ 	<li><img class="alignnone size-full wp-image-482" src="https://haoming.gq/wp-content/uploads/2023/01/屏幕截图-2023-02-11-092035.png" alt="" width="288" height="382" /></li>
 </ul>
 &nbsp;
 <ul>
- 	<li style="list-style-type: none;">
-<ul>
  	<li><a href="http://download.haoming.gq/steam-anti-dns-poisoning.7z">下载链接</a></li>
- 	<li><a href="https://afdian.net/a/haoming">爱发电</a></li>
- 	<li><a href="https://haoming.gq/%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e7%9b%b4%e8%be%be/">源码直达</a></li>
-</ul>
-</li>
+ 	<li><a href="https://github.com/hhm1/steam-anti-dns-poisoning">GitHub源码</a></li>
+ 	<li><a href="https://haoming.gq/2023/01/22/steam-anti-dns-poisoning-for-linux-ubuntu-document" target="_blank" rel="noopener">Linux使用文档</a></li>
+ 	<li><a href="https://github.com/hhm1/Steam-Anti-Dns-Poisoning-For-Linux" target="_blank" rel="noopener">GitHub源码-Linux</a></li>
+ 	<li><a href="https://haoming.gq/?p=141">Mac使用文档</a></li>
+ 	<li><a href="https://github.com/hhm1/Bocchidesu">“Bocchidesu.exe”源代码</a></li>
 </ul>
 &nbsp;
 <ul>
@@ -69,6 +68,8 @@
 <p dir="auto">中文:</p>
 这是 <a href="https://github.com/nginx/nginx">nginx/nginx</a>的一个分支，所以你应该始终遵循<a href="http://nginx.org/LICENSE" rel="nofollow">2-clause BSD-like licens</a>
 
+可视化工具是<a href="https://github.com/wnmp/wnmp/blob/master/LICENSE">GPL-3.0</a> 下的  <a href="https://github.com/wnmp/wnmp">wnmp/wnmp</a> 的一部分
+
 本项目是基于<a href="https://github.com/mashirozx/Pixiv-Nginx" target="_blank" rel="noopener">Pixiv-Nginx</a>的二次修改的版本，你也需要遵循<a href="https://github.com/mashirozx/Pixiv-Nginx/blob/main/LICENSE" target="_blank" rel="noopener">MIT LICENSE</a></li>
 </ul>
 &nbsp;
@@ -82,6 +83,7 @@
  	<li>English：</li>
  	<li>
 <p dir="auto">This is a fork of <a href="https://github.com/nginx/nginx">nginx/nginx</a>, so you should always follow its <a href="http://nginx.org/LICENSE" rel="nofollow">2-clause BSD-like licens</a>  .</p>
+<p dir="auto">The visualized management tool is part of <a href="https://github.com/wnmp/wnmp">wnmp/wnmp</a>, which is under <a href="https://github.com/wnmp/wnmp/blob/master/LICENSE">GPL-3.0</a>. .</p>
 </li>
  	<li>
 <p dir="auto">This project is a modified version of <a href="https://github.com/mashirozx/Pixiv-Nginx" target="_blank" rel="noopener">Pixiv-Nginx</a>, and you also need to follow the <a href="https://github.com/mashirozx/Pixiv-Nginx/blob/main/LICENSE" target="_blank" rel="noopener">MIT LICENSE</a></p>

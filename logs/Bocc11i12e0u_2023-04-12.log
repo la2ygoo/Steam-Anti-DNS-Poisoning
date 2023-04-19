@@ -1,6 +1,0 @@
-2023-04-12 11:18:00,558 [1] INFO  mylogger - the hosts.exe run success
-2023-04-12 11:18:01,311 [1] INFO  mylogger - the nginx kill success
-2023-04-12 11:18:04,382 [1] INFO  mylogger - close success！
-2023-04-12 11:18:11,001 [1] ERROR mylogger - the 'ms.txt' is lost or hosts writing failed
-2023-04-12 11:18:11,888 [1] INFO  mylogger - the nginx start successful
-2023-04-12 11:18:12,865 [1] INFO  mylogger - start success
